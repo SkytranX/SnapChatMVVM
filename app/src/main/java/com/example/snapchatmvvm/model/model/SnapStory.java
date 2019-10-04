@@ -5,6 +5,7 @@ public class SnapStory {
     private String userName;
     private String imageUrl;
 
+
     public SnapStory(String userName, String imageUrl) {
         this.userName = userName;
         this.imageUrl = imageUrl;
