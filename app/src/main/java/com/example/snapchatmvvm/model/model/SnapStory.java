@@ -1,4 +1,4 @@
-package com.example.snapchatmvvm.model;
+package com.example.snapchatmvvm.model.model;
 
 public class SnapStory {
 
